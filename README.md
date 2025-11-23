@@ -1,5 +1,4 @@
 📁 Project Structure
-
 internship_training_website/
 │── index.html
 │── courses.html
